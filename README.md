@@ -1,2 +1,2 @@
-# DAKoSA-Domain-Adaptation-in-Korean-Speech-Act
+# DAKSA-Domain-Adaptation-in-Korean-Speech-Act
 Cross-Domain Speech Act Adaptation and Analysis
