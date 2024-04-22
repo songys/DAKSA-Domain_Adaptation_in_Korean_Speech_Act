@@ -14,9 +14,6 @@ The annotation guideline ([in Korean is here](https://docs.google.com/document/d
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 65bc30aece41fa08a028f971 | peti-0001 | 스텔라 데이지호에 대한 제안입니다. | 서술 | 제안/요구 | 서술 | 서술 | 서술 | 서술 | statement | 6 |
 | 65bc30aece41fa08a028f972 | peti-0002 | 비리제보처를 만들어주세요. | 서술 | 제안/요구 | 제안/요구 | 제안/요구 | 제안/요구 | 제안/요구 | suggestion/request | 7 |
-| 65bc30aece41fa08a028f973 | peti-0003 | 공공기관 무조건적인 정규직전환을 반대합니다. | 서술 | 서술 | 제안/요구 | 제안/요구 | 제안/요구 | 제안/요구 | suggestion/request | 7 |
-| 65bc30aece41fa08a028f974 | peti-0004 | 제2의 개성공단 | 서술 | 작업불가 | 제안/요구 | 서술 | 작업불가 | 서술 | statement | 6 |
-| 65bc30aece41fa08a028f975 | peti-0005 | 보건복지부 부령 제339호중 “특수의료장비 운영에 관한 규칙” 중 불합리한 행정제도·법령·시책 등으로 인하여 권리·이익이 침해되어 시정요구시정을 요구합니다 | 제안/요구 | 제안/요구 | 제안/요구 | 제안/요구 | 제안/요구 | 제안/요구 | suggestion/request | 7 |
 
 ## messenger data
 
@@ -28,7 +25,7 @@ The annotation guideline ([in Korean is here](https://docs.google.com/document/d
 | MDRW1900003747.1.1.4 | user_2 | 서술 | 서술 | 서술 | 서술 | 서술 | 서술 | statement | 6 |
 | MDRW1900003747.1.1.5 | user_2 | 설명 의문 | 설명 의문 | 설명 의문 | 설명 의문 | 설명 의문 | 설명 의문 | wh-question | 8 |
 
-Due to the license policy, the [NLTK dataset](https://kli.korean.go.kr/corpus/main/requestMain.do?lang=ko) is not allowed to be released. Therefore, we are releasing the ID. After downloading the data from the NLTK website, please email [me](klanguage1004@gmail.com), and I will send you the full annotation data.    
+Due to the license policy, the [NLTK dataset](https://kli.korean.go.kr/corpus/main/requestMain.do?lang=ko) is not allowed to be released. Therefore, we are releasing the ID. After downloading the data from the NLTK website, please email me(klanguage1004@gmail.com), and I will send you the full annotation data.    
 
 
 # data source
